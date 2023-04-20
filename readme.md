@@ -23,5 +23,3 @@ npm run dev
 
 ![](https://github.com/jmanueltorress/CRUD-MOVIES/blob/main/assets/demofinal.png)
 =======
-![](https://github.com/jmanueltorress/CRUD-MOVIES/blob/main/assets/demofinal.png)
-
