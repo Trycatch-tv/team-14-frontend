@@ -13,7 +13,7 @@ npm run dev
 ```
 
 #### Demo :
- https://main--polite-pudding-50f172.netlify.app/categorias 
+ https://main--polite-pudding-50f172.netlify.app/ 
 
 
 ## Desktop Design
